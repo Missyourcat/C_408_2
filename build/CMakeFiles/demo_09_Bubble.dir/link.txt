@@ -1,0 +1,3 @@
+D:\17811\C\cmake\bin\cmake.exe -E rm -f CMakeFiles\demo_09_Bubble.dir/objects.a
+D:\17811\C\mingw64\bin\ar.exe qc CMakeFiles\demo_09_Bubble.dir/objects.a @CMakeFiles\demo_09_Bubble.dir\objects1.rsp
+D:\17811\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\demo_09_Bubble.dir/objects.a -Wl,--no-whole-archive -o demo_09_Bubble.exe -Wl,--out-implib,libdemo_09_Bubble.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_09_Bubble.dir\linkLibs.rsp

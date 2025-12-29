@@ -1,0 +1,3 @@
+D:\17811\C\cmake\bin\cmake.exe -E rm -f CMakeFiles\Socket_sever.dir/objects.a
+D:\17811\C\mingw64\bin\ar.exe qc CMakeFiles\Socket_sever.dir/objects.a @CMakeFiles\Socket_sever.dir\objects1.rsp
+D:\17811\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Socket_sever.dir/objects.a -Wl,--no-whole-archive -o Socket_sever.exe -Wl,--out-implib,libSocket_sever.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Socket_sever.dir\linkLibs.rsp

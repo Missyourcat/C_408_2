@@ -1,0 +1,26 @@
+cmake_minimum_required(VERSION 3.29)
+project(C_408_2)
+
+set(CMAKE_CXX_STANDARD 11)
+file(GLOB SOURCES
+    "*.cpp"
+    "*.h"
+)
+link_libraries(ws2_32)
+# add_executable(C_408_2 main.cpp)
+# add_executable(demo_01_sqlist chapter_01/demo_01_sqlist.cpp)
+# add_executable(demo_05_01_19_42 chapter_01/demo_05_01_19_42.cpp)
+# add_executable(demo_06_BiTree chapter_01/demo_06_BiTree/demo_06_BiTree.cpp chapter_01/demo_06_BiTree/demo_queue.cpp)
+# add_executable(demo_06_01_14_41 chapter_01/demo_06_01_14_41.cpp)
+# add_executable(demo_07_SSTable chapter_01/demo_07_SSTable.cpp)
+# add_executable(demo_08_BST chapter_01/demo_08_BST.cpp)
+# add_executable(demo_07_01_14_42 chapter_01/demo_07_01_14_42.cpp)
+# add_executable(demo_09_Bubble chapter_01/demo_09_Bubble.cpp)
+# add_executable(demo_10_QuickSort chapter_01/demo_10_QuickSort.cpp)
+# add_executable(demo_11_InsertSort chapter_01/demo_11_InsertSort.cpp)
+# add_executable(demo_12_SelectSort chapter_01/demo_12_SelectSort.cpp)
+# add_executable(demo_13_HeapSort chapter_01/demo_13_HeapSort.cpp)
+# add_executable(demo_14_MergeSort chapter_01/demo_14_MergeSort.cpp)
+# add_executable(C_PLUS chapter_02/C_PLUS.cpp)
+add_executable(Socket_sever chapter_02/Socket_sever.cpp)
+add_executable(Socket_client chapter_02/Socket_client.cpp)

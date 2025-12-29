@@ -1,0 +1,3 @@
+D:\17811\C\cmake\bin\cmake.exe -E rm -f CMakeFiles\demo_02_Linklist.dir/objects.a
+D:\17811\C\mingw64\bin\ar.exe qc CMakeFiles\demo_02_Linklist.dir/objects.a @CMakeFiles\demo_02_Linklist.dir\objects1.rsp
+D:\17811\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\demo_02_Linklist.dir/objects.a -Wl,--no-whole-archive -o demo_02_Linklist.exe -Wl,--out-implib,libdemo_02_Linklist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_02_Linklist.dir\linkLibs.rsp

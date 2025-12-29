@@ -1,0 +1,3 @@
+D:\17811\C\cmake\bin\cmake.exe -E rm -f CMakeFiles\demo_12_SelectSort.dir/objects.a
+D:\17811\C\mingw64\bin\ar.exe qc CMakeFiles\demo_12_SelectSort.dir/objects.a @CMakeFiles\demo_12_SelectSort.dir\objects1.rsp
+D:\17811\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\demo_12_SelectSort.dir/objects.a -Wl,--no-whole-archive -o demo_12_SelectSort.exe -Wl,--out-implib,libdemo_12_SelectSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_12_SelectSort.dir\linkLibs.rsp

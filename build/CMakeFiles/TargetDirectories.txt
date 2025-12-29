@@ -1,0 +1,4 @@
+D:/Code/C_Math_Mode/C_408_2/build/CMakeFiles/Socket_sever.dir
+D:/Code/C_Math_Mode/C_408_2/build/CMakeFiles/Socket_client.dir
+D:/Code/C_Math_Mode/C_408_2/build/CMakeFiles/edit_cache.dir
+D:/Code/C_Math_Mode/C_408_2/build/CMakeFiles/rebuild_cache.dir

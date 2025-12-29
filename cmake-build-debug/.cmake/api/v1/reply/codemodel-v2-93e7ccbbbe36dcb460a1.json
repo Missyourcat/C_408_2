@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_408_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C_408_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_408_2-Debug-35727b464935c19b0fa4.json",
+					"name" : "C_408_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_01_sqlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_01_sqlist-Debug-7b169cdcde1e3916d173.json",
+					"name" : "demo_01_sqlist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_02_Linklist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_02_Linklist-Debug-7b6f2e63c857c91c344f.json",
+					"name" : "demo_02_Linklist",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/C_408_2/cmake-build-debug",
+		"source" : "D:/Code/C_408_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

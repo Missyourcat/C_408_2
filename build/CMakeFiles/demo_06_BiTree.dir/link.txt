@@ -1,0 +1,3 @@
+D:\17811\C\cmake\bin\cmake.exe -E rm -f CMakeFiles\demo_06_BiTree.dir/objects.a
+D:\17811\C\mingw64\bin\ar.exe qc CMakeFiles\demo_06_BiTree.dir/objects.a @CMakeFiles\demo_06_BiTree.dir\objects1.rsp
+D:\17811\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\demo_06_BiTree.dir/objects.a -Wl,--no-whole-archive -o demo_06_BiTree.exe -Wl,--out-implib,libdemo_06_BiTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_06_BiTree.dir\linkLibs.rsp

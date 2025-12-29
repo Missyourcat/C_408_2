@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Code/C_Math_Mode/C_408_2/build",
+  "command": "D:\\17811\\C\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Socket_sever.dir\\chapter_02\\Socket_sever.cpp.obj -c D:\\Code\\C_Math_Mode\\C_408_2\\chapter_02\\Socket_sever.cpp",
+  "file": "D:/Code/C_Math_Mode/C_408_2/chapter_02/Socket_sever.cpp",
+  "output": "CMakeFiles/Socket_sever.dir/chapter_02/Socket_sever.cpp.obj"
+},
+{
+  "directory": "D:/Code/C_Math_Mode/C_408_2/build",
+  "command": "D:\\17811\\C\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\Socket_client.dir\\chapter_02\\Socket_client.cpp.obj -c D:\\Code\\C_Math_Mode\\C_408_2\\chapter_02\\Socket_client.cpp",
+  "file": "D:/Code/C_Math_Mode/C_408_2/chapter_02/Socket_client.cpp",
+  "output": "CMakeFiles/Socket_client.dir/chapter_02/Socket_client.cpp.obj"
+}
+]
